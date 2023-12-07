@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
+import math
 
 '''
 Basic annotation - floor function
 '''
-
-import math
 
 
 def floor(n: float) -> float:
