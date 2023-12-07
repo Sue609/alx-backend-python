@@ -4,8 +4,8 @@ Basic annotation - floor function
 '''
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     '''
     type-annoted function that takes a float and returns a float
     '''
-    return math.floor(n)
+    return int(n)
