@@ -2,8 +2,6 @@
 '''
 coroutine called async generator that takes no arguements.
 '''
-
-
 import asyncio
 import random
 
